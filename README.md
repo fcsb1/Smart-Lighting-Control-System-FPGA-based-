@@ -1,2 +1,3 @@
-# Smart-Lighting-Control-System-FPGA-based-
- An intelligent lighting control system using VHDL on a Nexys A7 FPGA board.
+# Smart-Lighting-Control-System-FPGA-based
+ 
+Proiectul a avut ca scop dezvoltarea unui sistem de control al iluminatului inteligent care sa ajusteze automat intensitatea luminii artificiale in functie de nivelul de lumina ambientala. Sistemul a fost construit utilizand o placa de dezvoltare FPGA (Nexys A7), un senzor de lumina ambientala (PMod ALS) si un keypad pentru control manual (PMod Keypad). Comunicarea dintre senzor si placa s-a realizat prin intermediul protocolului SPI, iar intensitatea luminii a fost controlata prin generarea unui semnal PWM. Proiectul a fost implementat in limbajul VHDL, iar rezultatele experimentale au demonstrat functionarea corecta a sistemului. Sistemul dezvoltat reprezinta o solutie eficienta si flexibila pentru controlul iluminatului, contribuind la reducerea consumului de energie si la cresterea confortului utilizatorilor.
